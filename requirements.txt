@@ -1,0 +1,34 @@
+#langchain
+langchain
+langchain-core
+
+#openai integration
+langchain-openai
+
+#document loader
+langchain-community
+
+#anthropic integration
+langchain-anthropic
+
+#google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+#Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#enviroment variable management
+python-dotenv
+
+#machone learing utilities
+numpy
+pandas
+scikit-learn
+streamlit
+sentencepiece
+
+#vector database
+chromadb
